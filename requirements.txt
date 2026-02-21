@@ -3,4 +3,5 @@ pandas
 numpy
 matplotlib
 openpyxl
+seaborn
 pyarrow
